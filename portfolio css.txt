@@ -1,0 +1,34 @@
+?h1 {
+  text-align:center;
+  margin-top:5%;
+  margin-left:40%;
+  margin-right:40%;
+  border-style:double;
+}
+  
+p {
+  text-align:center;
+  color:black;
+}
+  
+body{  
+  background-color: white;
+  color:black;
+}
+
+.pageOne{
+  background:url(http://areait.info/wp-content/uploads/2013/03/wallpaper-abstract-lines_1920x1080.jpg);
+  background-size: cover;  
+height:1000px;
+margin-top:10%;
+}
+
+.col-md-3{
+  border-style:double;
+  text-align:center;
+}
+.btn-default{
+  background-color:blue;
+  border-color:black;
+  color:white;
+}
