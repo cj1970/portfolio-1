@@ -1,0 +1,47 @@
+h1 {
+  text-align:center;
+  margin-top:100px;
+  margin-right:30%;
+  margin-left:30%;
+  border-style:solid;
+  border-radius:10px;
+  font-size:5em;
+  
+}
+  
+p {
+  text-align:center;
+  color:black;
+  font-size: 2em;
+}
+  
+body{  
+  background-color: white;
+  color:black;
+}
+
+.pageOne{
+  background:url(http://areait.info/wp-content/uploads/2013/03/wallpaper-abstract-lines_1920x1080.jpg);
+  background-size: cover;  
+height:1000px;
+margin-top:10%;
+}
+
+.col-md-3{
+  border-style:double;
+  text-align:center;
+}
+.btn-default{
+  background-color:blue;
+  border-color:black;
+  color:white;
+}
+
+.pageTwo{
+  background:url(http://www.fodors.com/ee/images/article/mountain.jpg);
+  background-size: cover;  
+  height:1000px;
+  margin-top:10%;
+}
+
+.p
