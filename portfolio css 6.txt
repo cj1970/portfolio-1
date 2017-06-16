@@ -1,0 +1,77 @@
+h1 {
+  text-align:center;
+  margin-top:100px;
+  margin-right:30%;
+  margin-left:30%;
+  border-style:solid;
+  border-radius:10px;
+  font-size:5em;
+  
+}
+h2{
+  text-align:center;
+  margin-top:100px;
+  margin-right:20%;
+  margin-left:20%;
+  border-style:solid;
+  border-radius:10px;
+  font-size:5em;
+  
+}  
+p {
+  text-align:center;
+  color:black;
+  font-size: 2em;
+}
+  
+body{  
+  background-color: white;
+  color:black;
+}
+
+.pageOne{
+  background:url(http://areait.info/wp-content/uploads/2013/03/wallpaper-abstract-lines_1920x1080.jpg);
+  background-size: cover;  
+height:1000px;
+margin-top:10%;
+}
+
+.col-md-3{
+  border-style:double;
+  text-align:center;
+}
+.btn-default{
+  background-color:blue;
+  border-color:black;
+  color:white;
+}
+
+.pageTwo{
+  background:url(http://www.fodors.com/ee/images/article/mountain.jpg);
+  background-size: cover;  
+  height:75em;
+  width:100em;
+}
+.pageThree{
+   background:url(https://images.pexels.com/photos/23049/pexels-photo.jpg?);
+   background-size: cover;   
+   height:1000px;
+   margin-top:5%;
+ }
+.pageFour{
+   background:url(http://nebula.wsimg.com/2e6e5dd1569447a5b6db0eacfb2f710a?AccessKeyId=A1795779AFD73B299BFA&amp;disposition=0&amp;alloworigin=1);
+   background-size: cover;  
+   height:1500px;
+   margin-top:5%;
+   margin-bottom:5%;
+}
+
+#github{
+  color-rgb(0,275,273);
+}
+ #linkedin{
+  color-rgb(0,275,273);
+}
+#facebook{
+  color-rgb(0,275,273);
+}
