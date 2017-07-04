@@ -1,0 +1,182 @@
+<HTML>
+
+ <head>
+    <link rel="stylesheet" href="https://use.fontawesome.com/9bf7e610db.css"></link>
+ <script src="https://use.fontawesome.com/9bf7e610db.js"></script>
+  <h1>Cezar's Portfolio</h1> 
+  </head>
+
+ 
+   <body>
+    
+ 
+     
+     <div class="container">
+      <div class="pageOne text-center">
+      
+        <div class="row">
+            <div class="col-md-3">
+              <a href="#">Home</a>
+            </div>
+            
+            <div class="col-md-3">
+              <a href="#p2">About Me</a>
+            </div>
+      
+            <div class="col-md-3">
+              <a href="#p3">Cool subjects</a>
+            </div>
+      
+      
+            <div class="col-md-3">
+              <a href="#p4">Contact Me</a>
+            </div>
+          
+         
+          
+        </div><!--END ROW OF NAV LINKS-->
+        
+        </br></br>
+        
+          <div class="btnList">
+            <a class="btn btn-default" href="https://github.com/"><i class="fa fa-github" id="githubIcon" aria-hidden="true"></i>GitHub</a>
+ 
+            <a class="btn btn-default" href="https://www.linkedin.com"><i class="fa fa-linkedin" id="linkedinIcon" aria-hidden="true"></i>
+LinkedIn</a> 
+
+            <a class="btn btn-default" href="https://www.facebook.com/"><i class="fa fa-facebook" id="facebookIcon" aria-hidden="true"></i>
+Facebook</a>
+            
+          </div><!--END BUTTON LIST-->
+        
+          </br></br>
+        
+          <p>Hello and welcome to my humble portfolio!</p> 
+</br></br>
+
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<p data-height="265" data-theme-id="0" data-slug-hash="ZWoyqx" data-default-tab="result" data-user="PizzaPokerGuy" data-embed-version="2" data-pen-title="Twitch JSON API" class="codepen">See the Pen <a href="https://codepen.io/PizzaPokerGuy/pen/ZWoyqx/">Twitch JSON API</a> by Dylan Israel (<a href="https://codepen.io/PizzaPokerGuy">@PizzaPokerGuy</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+  
+  <a href="https://codepen.io/PizzaPokerGuy/pen/ZWoyqx/" target="blank">
+    <h3>Twitch AI Project</h3>
+  </a>
+  
+</div><!--END TWITCH API-->
+
+
+<div class="col-md-6">
+  <p data-height="265" data-theme-id="0" data-slug-hash="ZWoyqx" data-default-tab="result" data-user="PizzaPokerGuy" data-embed-version="2" data-pen-title="Twitch JSON API" class="codepen">See the Pen <a href="https://codepen.io/PizzaPokerGuy/pen/ZWoyqx/">Twitch JSON API</a> by Dylan Israel (<a href="https://codepen.io/PizzaPokerGuy">@PizzaPokerGuy</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+<a href="https://codepen.io/PizzaPokerGuy/pen/ZWoyqx/" target="blank">
+    <h3>Twitch AI Project</h3>
+  </a>
+  </div><!--END TWITCH API-->
+</div><!--END ROW FOR TWITCH API-->
+
+<div class="row">
+<div class="col-md-6">
+<p data-height="265" data-theme-id="0" data-slug-hash="ZWoyqx" data-default-tab="result" data-user="PizzaPokerGuy" data-embed-version="2" data-pen-title="Twitch JSON API" class="codepen">See the Pen <a href="https://codepen.io/PizzaPokerGuy/pen/ZWoyqx/">Twitch JSON API</a> by Dylan Israel (<a href="https://codepen.io/PizzaPokerGuy">@PizzaPokerGuy</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+  
+  <a href="https://codepen.io/PizzaPokerGuy/pen/ZWoyqx/" target="blank">
+    <h3>Twitch AI Project</h3>
+  </a>
+  
+</div><!--END TWITCH API-->
+
+
+<div class="col-md-6">
+  <p data-height="265" data-theme-id="0" data-slug-hash="ZWoyqx" data-default-tab="result" data-user="PizzaPokerGuy" data-embed-version="2" data-pen-title="Twitch JSON API" class="codepen">See the Pen <a href="https://codepen.io/PizzaPokerGuy/pen/ZWoyqx/">Twitch JSON API</a> by Dylan Israel (<a href="https://codepen.io/PizzaPokerGuy">@PizzaPokerGuy</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+<a href="https://codepen.io/PizzaPokerGuy/pen/ZWoyqx/" target="blank">
+    <h3>Twitch AI Project</h3>
+  </a>
+  </div><!--END TWITCH API-->
+</div><!--END SECOND ROW FOR TWITCH API-->
+</div><!--END CONTAINER ALL TWITCH APIS-->
+
+
+</div><!--END PAGE ONE-->
+    </div><!--END PAGE ONE CONTAINER-->
+          
+</body>
+
+
+
+
+
+<div class="container">
+  
+  
+  <div class="pageTwo text-center" id="p2">
+     
+    <div class="row">
+            <div class="col-md-6">
+              <h2>About me</h2>
+                <p>I'm interested in full-stack web development,    cyber-security, penetration testing, reverse engineering,and other tech related subjects. 
+                </p>  
+              <hr/>
+            </div>
+            
+            
+          
+         
+          
+     </div><!--END PAGE TWO ROW-->
+        
+     </br></br></br></br>
+
+  </div><!--END PAGE TWO-->
+
+
+</div><!--END PAGE TWO CONTAINER-->
+
+
+
+<div class="pageThree text-center" id="p3">
+  <h2>Cool Subjects</h2>
+  <div class="row">
+            <div class="col-md-6">
+                <p>
+                  <ul>HTML</ul>
+                  <ul>CSS</ul> 
+                  <ul>Javacript</ul>
+                  <ul>Angular</ul>
+                  <ul>React</ul>
+                </p>  
+            </div>
+            <div class="col-md-6">
+                <p>
+                  <ul>C</ul>
+                  <ul>C++</ul>
+                  <ul>Java</ul>
+                  <ul>C#</ul>
+                  <ul>Windows</ul>
+                  <ul>Android</ul>
+                  <ul>Apple OS</ul>
+                </p>
+           </div>
+    </div>
+
+</div>
+ 
+<div class="pageFour text-center" id="p4">
+<h2>Contact Me</h2>
+  <div class="row">
+            <div class="col-md-6">
+                <p>
+                  <ul>Email: c_t_j_1970@yahoo.com</ul>
+                 
+                </p>  
+            </div>
+            <div class="col-md-6">
+                <p>
+                  <ul></ul>
+                  
+                </p>
+           </div>
+    </div>
+</div> 
